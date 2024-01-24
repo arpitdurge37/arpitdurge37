@@ -1,3 +1,4 @@
+[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)]
 <h1 align="center">Hi 👋, I'm Arpit Durge</h1>
 <h3 align="center">MERN FULL STACK DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
