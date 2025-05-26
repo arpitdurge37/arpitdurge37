@@ -16,7 +16,7 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m currently learning **Advanced TypeScript & System Design**
+- 🌱 I’m currently exploring **Next.js, Cloud Deployment, and Scalable Backend Architecture**
 - 💬 Ask me about **React, Node.js, MongoDB, and Frontend Development**
 - 📫 How to reach me: **arpitdurge14@gmail.com**
 - 💼 Portfolio: [portfolio-arpit-durge](https://portfolio-arpit-durge-50e71.web.app)
@@ -26,7 +26,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <!-- Dev Icons -->
+  <!-- Languages & Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -37,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
