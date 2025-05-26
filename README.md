@@ -19,7 +19,6 @@
 - 🌱 I’m currently learning **Advanced TypeScript & System Design**
 - 💬 Ask me about **React, Node.js, MongoDB, and Frontend Development**
 - 📫 How to reach me: **arpitdurge14@gmail.com**
-- 💼 Portfolio: [portfolio-arpit-durge](https://portfolio-arpit-durge-50e71.web.app)
 
 ---
 
