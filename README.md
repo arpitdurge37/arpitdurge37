@@ -25,8 +25,9 @@
   <a href="https://www.linkedin.com/in/arpit-durge" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/arpitdurge03" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/arrpit03" target="blank">
+    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://img.icons8.com/?    
+    size=100&id=BrU2BBoRXiWq&format=png&color=000000)" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
