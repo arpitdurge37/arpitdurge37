@@ -15,71 +15,57 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🙋‍♂️ About Me
 
-- 🔭 Currently building real-world **MERN stack applications**
-- 🧠 Exploring **Next.js**, **Firebase**, and scalable cloud architecture
-- 🌱 Learning more about **backend optimization** and **clean architecture**
-- 🤝 Open to collaboration on exciting **Full Stack** projects
-- 💬 Ask me about React, Node, MongoDB, and clean UI design
-- 📫 Reach me at: **arpitdurge14@gmail.com**
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 I’m currently exploring **Next.js, Cloud Deployment, and Scalable Backend Architecture**
+- 💬 Ask me about **React, Node.js, MongoDB, and Frontend Development**
+- 📫 How to reach me: **arpitdurge14@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-
+  <!-- Languages & Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>  
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/intellij-idea.png" width="40" height="40" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" height="40" alt="Postman"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="40" height="40" alt="MongoDB Compass"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB Compass" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitdurge37&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdurge37&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitdurge37&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitdurge37&show_icons=true&theme=tokyonight" alt="Arpit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdurge37&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitdurge37&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arpit-durge" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-arpit-durge-50e71.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-  </a>
-</p>
+Feel free to connect with me on LinkedIn or check out my portfolio to learn more about my work.
 
 ---
-
-### 💬 Quote of the Day
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
----
+can you do something more creative i am giving you free hand from my side do whatever ypu can do
