@@ -5,7 +5,7 @@
 <h3 align="center">MERN Full Stack Developer | Passionate Coder | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:arpitdurge14@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://icons8.com/icon/LPcVDft9Isqt/email)" /></a>
+  <a href="mailto:arpitdurge14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/arpit-durge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/arpitdurge03" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/arpitdurge03" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -50,12 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdurge37&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitdurge37&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 🌟 Projects Showcase
-
-🚀 Coming soon... *Add your top pinned repositories or showcase with images & links!*
 
 ---
 
