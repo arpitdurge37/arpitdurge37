@@ -19,12 +19,14 @@
 - 🌱 I’m currently learning **Advanced TypeScript & System Design**
 - 💬 Ask me about **React, Node.js, MongoDB, and Frontend Development**
 - 📫 How to reach me: **arpitdurge14@gmail.com**
+- 💼 Portfolio: [portfolio-arpit-durge](https://portfolio-arpit-durge-50e71.web.app)
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <!-- Dev Icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -34,9 +36,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB Compass" width="40" height="40"/>
 </p>
 
 ---
@@ -51,6 +58,12 @@
 
 ---
 
+### 🌟 Projects Showcase
+
+🚀 Coming soon... *Add your top pinned repositories or showcase with images & links!*
+
+---
+
 ### 📫 Let's Connect
 
 Feel free to connect with me on LinkedIn or check out my portfolio to learn more about my work.
@@ -60,4 +73,3 @@ Feel free to connect with me on LinkedIn or check out my portfolio to learn more
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
-
