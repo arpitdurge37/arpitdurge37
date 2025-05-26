@@ -68,4 +68,3 @@ Feel free to connect with me on LinkedIn or check out my portfolio to learn more
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
-can you do something more creative i am giving you free hand from my side do whatever ypu can do
