@@ -15,7 +15,7 @@
 - 👯 I’m open to collaborating on **MERN Full Stack projects**
 - 🤝 I’m looking for help with **MERN Full Stack Development**
 - 📫 How to reach me: **arpitdurge14@gmail.com**
-<!-- - 🌐 Portfolio: [https://yourportfolio.web.app](https://yourportfolio.web.app) -->
+- 🌐 Portfolio: [https://portfolio-arpit-durge-50e71.web.app](https://portfolio-arpit-durge-50e71.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +25,8 @@
   <a href="https://www.linkedin.com/in/arpit-durge" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/arrpit03" target="blank">
-    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://img.icons8.com/?    
-    size=100&id=BrU2BBoRXiWq&format=png&color=000000)" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/arpitdurge03" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
