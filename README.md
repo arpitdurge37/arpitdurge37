@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpit-durge" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-arpit-durge.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio"/>
